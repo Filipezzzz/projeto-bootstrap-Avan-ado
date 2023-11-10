@@ -1,0 +1,5 @@
+/*@import url(./Reset.css);*/
+
+.container-fluid .carousel .carousel-item {
+    height: 50%;
+}
